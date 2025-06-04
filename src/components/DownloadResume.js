@@ -6,10 +6,9 @@ import { motion } from 'framer-motion';
 const DownloadResume = () => {
   const handleDownload = () => {
     // Replace with your actual resume file path
-    const resumeUrl = '/resume.pdf';
     const link = document.createElement('a');
-    link.href = resumeUrl;
-    link.download = 'Tejasvi_Garg_Resume.pdf';
+    link.href = '/resume.pdf';
+    link.download = 'Tejasvi Resume';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

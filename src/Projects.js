@@ -25,9 +25,9 @@ const projects = [
     title: 'Weather Dashboard',
     description: 'A weather dashboard that fetches real-time weather data using a public API.',
     techStack: ['JavaScript', 'HTML', 'CSS', 'OpenWeatherMap API'],
-    live: 'https://your-weather-demo.com',
-    github: 'https://github.com/tejasvigarg/weather-dashboard',
-    image: '/src/assets/images/weather-dashboard.png',
+    live: 'https://weatherweb-omega.vercel.app/',
+    github: 'https://github.com/tejas01g/Wheather-Web',
+    image: '/src/assets/images/weather.png',
   },
   // Add more projects as needed
 ];
