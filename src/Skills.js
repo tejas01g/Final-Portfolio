@@ -11,8 +11,8 @@ const skills = [
   'Node.js',
   'Express',
   'MongoDB',
-  'Material-UI',
-  'Framer Motion',
+  'React-Native',
+  'SQL',
   'Git',
 ];
 

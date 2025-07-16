@@ -6,19 +6,19 @@ import { GitHub, Launch } from '@mui/icons-material';
 // Example project data
 const projects = [
   {
-    title: 'Portfolio Website',
-    description: 'A modern, responsive personal portfolio built with React and Material-UI.',
-    techStack: ['React', 'Material-UI', 'Framer Motion'],
-    live: 'https://your-portfolio-demo.com',
-    github: 'https://github.com/tejasvigarg/portfolio',
+    title: 'Expensr',
+    description: 'A expense tracker app , built with react native and express.',
+    techStack: ['React-Native', 'Express.js'],
+    live: 'https://github.com/tejas01g/EXPENSE--REACT-NATIVE',
+    github: 'https://github.com/tejas01g/EXPENSE--REACT-NATIVE',
     image: '/src/assets/images/portfolio.png',
   },
   {
-    title: 'Task Manager App',
-    description: 'A full-featured task manager with authentication and real-time updates.',
-    techStack: ['React', 'Node.js', 'Express', 'MongoDB'],
-    live: 'https://your-taskmanager-demo.com',
-    github: 'https://github.com/tejasvigarg/task-manager',
+    title: 'Employee Management System',
+    description: 'A full-featured employee management system with authentication and real-time updates with local storage.',
+    techStack: ['React', 'Node.js', 'Express', 'Local-Storage'],
+    live: 'https://github.com/tejas01g/Employee-Management-System-',
+    github: 'https://github.com/tejas01g/Employee-Management-System-',
     image: '/src/assets/images/task-manager.png',
   },
   {
